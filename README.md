@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajath-gatty
 - I'm a Full Stack web developer
-- 👀 I’m interested in React, Nodejs, Nextjs, MongoDB, Express
+- 👀 I’m interested in React, React native, Nodejs, Nextjs, MongoDB, Express
 
 - 📫 Contact me -- rajathgatty001@gmail.com
 <!---
