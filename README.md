@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; text-align: center;">
 
-# Welcome to My Realm 👋
+# Welcome to My Readme 👋
 
  - 👋 Hi, I’m @Rajath-gatty
 - I'm a Full Stack web developer
