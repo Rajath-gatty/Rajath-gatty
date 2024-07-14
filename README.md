@@ -6,7 +6,7 @@
 - I'm a Full Stack web developer
 - 👀 I’m interested in React, React native, Nodejs, Nextjs, MongoDB, Express
 
-- Portfolio - https://rajath.live/
+- Portfolio - https://rajathdev.me/
  
 - 📫 Contact me -- rajathgatty001@gmail.com
 
