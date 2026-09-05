@@ -4,11 +4,11 @@
 
  - 👋 Hi, I’m @Rajath-gatty
 - I'm a Full Stack web developer
-- 👀 I’m interested in React, React native, Nodejs, Nextjs, MongoDB, Express
+- 👀 I’m interested in React, React native, Nodejs, Nextjs, MongoDB, Express, System design, DSA
 
-- Portfolio - https://rajathdev.me/
+- Portfolio - https://rajathgatty.in/
  
-- 📫 Contact me -- rajathgatty001@gmail.com
+- 📫 Contact me -- rajathgatty253@gmail.com
 
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath-gatty&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
